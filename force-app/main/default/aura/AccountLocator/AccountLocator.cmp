@@ -2,7 +2,7 @@
     <div>
         <div>AccountMap goes here</div>
         <div>
-          <c:AccountList/>
+          <c:AccountList />
         </div>
     </div>
 </aura:component>
